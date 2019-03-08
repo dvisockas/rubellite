@@ -1,5 +1,3 @@
-require "rubellite/version"
-
-module Rubellite
-  # Your code goes here...
-end
+require 'temple'
+require 'rubellite/version'
+require 'rubellite/end_inserter'
